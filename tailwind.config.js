@@ -12,12 +12,12 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "banner-bg": "url('/PNG/Banner.png')",
-        "banner2-bg": "url('/PNG/Wallpaper Adhicakra 2.png')",
-        "banner3-bg": "url('/PNG/Wallpaper Adhicakra.png')",
-        "banner4-bg": "url('/PNG/Wallpaper Adhicakra 3.png')",
-        "banner5-bg": "url('/PNG/Wallpaper Adhicakra 4.png')",
-        "banner6-bg": "url('/PNG/Wallpaper Adhicakra 5.png')",
+        "banner-bg": "url('PNG/Banner.png')",
+        "banner2-bg": "url('PNG/Wallpaper Adhicakra 2.png')",
+        "banner3-bg": "url('PNG/Wallpaper Adhicakra.png')",
+        "banner4-bg": "url('PNG/Wallpaper Adhicakra 3.png')",
+        "banner5-bg": "url('PNG/Wallpaper Adhicakra 4.png')",
+        "banner6-bg": "url('PNG/Wallpaper Adhicakra 5.png')",
       },
       colors: {
         primary: "#78089F",
